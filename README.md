@@ -2,8 +2,6 @@
 
 A powerful addon for Storybook that allows you to write and run component tests directly inside your stories and display the results in Storybook UI. ✨
 
-> ⚠️ This project is no longer actively maintained. If anyone is interested in continuing development and maintenance, contributions are welcome.
-
 ---
 
 ## 🚀 Features
